@@ -1,2 +1,1 @@
-# Xardamarius.github.io 
-Gallary
+# Gallary
