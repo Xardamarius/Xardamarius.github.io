@@ -34,8 +34,8 @@ window.addEventListener('DOMContentLoaded', function() {
         }
 
     });
-    
-        // Timer 
+
+    // Timer 
 
     let deadline = '2020-06-26';
 
@@ -85,4 +85,3 @@ window.addEventListener('DOMContentLoaded', function() {
 
     setClock('timer', deadline);
 });
-    
